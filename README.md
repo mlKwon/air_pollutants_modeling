@@ -8,5 +8,5 @@ After finishing model training, i will update the example codes and results.
 I preprocessed the data by using Google Earth Engine (javascript base), R and python. <br>
 Modeling work is also carried out by R and python. <br>
 
-I shared the example code of Google Earth Engine, so you can see how i extracted the features from Google Earth Engine roughly.
+I shared the example code of Google Earth Engine, so you can see how i extracted the features from Google Earth Engine roughly.<br>
 link : https://github.com/mlKwon/GoogleEarthEngine_public

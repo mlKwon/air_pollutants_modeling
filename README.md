@@ -5,5 +5,8 @@ Prediction results are not the final one. We are trying to improve rmse and r2 o
 After finishing model training, i will update the example codes and results.
 
 ## about coding
-I preprocessed the data by using Google Earth Engine(javascript), R and python. <br>
-Modeling work is also carried out by R and python.
+I preprocessed the data by using Google Earth Engine (javascript base), R and python. <br>
+Modeling work is also carried out by R and python. <br>
+
+I shared the example code of Google Earth Engine, so you can see how i extracted the features from Google Earth Engine roughly.
+link : https://github.com/mlKwon/GoogleEarthEngine_public

@@ -6,4 +6,4 @@ After finishing model training, i will update the example codes and results.
 
 ## about coding
 I preprocessed the data by using Google Earth Engine(javascript), R and python. <br>
-Modeling works are also proceeded by R and python.
+Modeling work is also carried out by R and python.

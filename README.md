@@ -1,4 +1,4 @@
-# ozone_co_modeling
+# ozone_no2_co_modeling
 South Korea : 1km*1km grid ozone, no2 and co modeling from 2002 to 2020 <br>
 
 Prediction results are not the final one. We are trying to improve the accuracy of our model.<br>

@@ -1,5 +1,5 @@
 # ozone_no2_co_modeling
-South Korea : monthly averages O3, NO2 and CO concentrations during 2002~2020 at 1km x 1km grid resoultion.<br>
+South Korea : monthly averages of O3, NO2 and CO concentrations during 2002~2020 at 1km x 1km grid resoultion.<br>
 
 We used random forest, light gradient boosting and neural network algorithm for estimating those gaseous air pollutants.<br>
 Now we are writing manuscript to submit to SCI-grade journal. <b4>

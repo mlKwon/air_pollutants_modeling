@@ -5,7 +5,7 @@ We used random forest, light gradient boosting and neural network algorithm for 
 Now we are writing manuscript to submit to SCI-grade journal. <b4>
 
 ## about coding
-I preprocessed the data by using Google Earth Engine (javascript base), SEDAC, and health-related determinants data using R and python. <br>
+I handled the data by using Google Earth Engine (javascript base), SEDAC, and health-related determinants data using R and python. <br>
 Modeling work is also carried out by R and python (+ pytorch). <br>
 
 I shared the example code of Google Earth Engine on my github, so you can see how i extracted the features from Google Earth Engine roughly.<br>

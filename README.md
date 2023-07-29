@@ -1,3 +1,7 @@
+# Study Paper link
+Title: Estimation of High-Spatial Resolution of Ground-Level Ozone, Nitrogen Dioxide, and Carbon Monoxide in South Korea During 2002-2020 Using Machine-Learning Based Ensemble Model <br>
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280944
+
 # ozone_no2_co_modeling
 South Korea : monthly averages of O3, NO2 and CO concentrations during 2002~2020 at 1km x 1km grid resoultion.<br>
 
